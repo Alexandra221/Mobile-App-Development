@@ -19,15 +19,16 @@ namespace Student
         private void Button_Clicked(object sender, EventArgs e)
         {
 
-
             count++;
             res.Text = "Студентов: " + count.ToString();
         }
 
-        private void Del_Clicked(object sender, EventArgs e)
+        private void Button_Del(object sender, EventArgs e)
         {
+
             count--;
             res.Text = "Студентов: " + count.ToString();
         }
+
     }
 }

@@ -1,0 +1,14 @@
+C:\repos\Activity Work\Activity Work\Activity Work\bin\Debug\netstandard2.0\Activity Work.deps.json
+C:\repos\Activity Work\Activity Work\Activity Work\bin\Debug\netstandard2.0\Activity Work.dll
+C:\repos\Activity Work\Activity Work\Activity Work\bin\Debug\netstandard2.0\ref\Activity Work.dll
+C:\repos\Activity Work\Activity Work\Activity Work\bin\Debug\netstandard2.0\Activity Work.pdb
+C:\repos\Activity Work\Activity Work\Activity Work\obj\Debug\netstandard2.0\Activity Work.csprojAssemblyReference.cache
+C:\repos\Activity Work\Activity Work\Activity Work\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\repos\Activity Work\Activity Work\Activity Work\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\repos\Activity Work\Activity Work\Activity Work\obj\Debug\netstandard2.0\Activity Work.AssemblyInfoInputs.cache
+C:\repos\Activity Work\Activity Work\Activity Work\obj\Debug\netstandard2.0\Activity Work.AssemblyInfo.cs
+C:\repos\Activity Work\Activity Work\Activity Work\obj\Debug\netstandard2.0\Activity Work.csproj.CoreCompileInputs.cache
+C:\repos\Activity Work\Activity Work\Activity Work\obj\Debug\netstandard2.0\XamlC.stamp
+C:\repos\Activity Work\Activity Work\Activity Work\obj\Debug\netstandard2.0\Activity Work.dll
+C:\repos\Activity Work\Activity Work\Activity Work\obj\Debug\netstandard2.0\ref\Activity Work.dll
+C:\repos\Activity Work\Activity Work\Activity Work\obj\Debug\netstandard2.0\Activity Work.pdb

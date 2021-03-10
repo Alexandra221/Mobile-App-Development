@@ -1,0 +1,15 @@
+C:\repos\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\repos\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\repos\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\ref\Calculator.dll
+C:\repos\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\ref\Calculator.dll
+C:\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculator.MainPage">
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <StackLayout Orientation="Horizontal" x:Name="first_line" VerticalOptions="Center" HorizontalOptions="Fill">
+            <Label Text="Первое слагаемое: "></Label>
+            <Entry x:Name="First" WidthRequest="200"></Entry>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" x:Name="second_line" VerticalOptions="Center" HorizontalOptions="Fill">
+            <Label Text="Второе слагаемое: "></Label>
+            <Entry x:Name="Second" WidthRequest="200"></Entry>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" x:Name="Submit" VerticalOptions="Center" HorizontalOptions="Center">
+
+            <Button x:Name="Sub" Clicked="Submit_Clicked" Text="Сложить" VerticalOptions="Center" HorizontalOptions="Center"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

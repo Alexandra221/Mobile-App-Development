@@ -1,0 +1,14 @@
+C:\repos\Tablo\Tablo\Tablo\bin\Debug\netstandard2.0\Tablo.deps.json
+C:\repos\Tablo\Tablo\Tablo\bin\Debug\netstandard2.0\Tablo.dll
+C:\repos\Tablo\Tablo\Tablo\bin\Debug\netstandard2.0\ref\Tablo.dll
+C:\repos\Tablo\Tablo\Tablo\bin\Debug\netstandard2.0\Tablo.pdb
+C:\repos\Tablo\Tablo\Tablo\obj\Debug\netstandard2.0\Tablo.csprojAssemblyReference.cache
+C:\repos\Tablo\Tablo\Tablo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\repos\Tablo\Tablo\Tablo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\repos\Tablo\Tablo\Tablo\obj\Debug\netstandard2.0\Tablo.AssemblyInfoInputs.cache
+C:\repos\Tablo\Tablo\Tablo\obj\Debug\netstandard2.0\Tablo.AssemblyInfo.cs
+C:\repos\Tablo\Tablo\Tablo\obj\Debug\netstandard2.0\Tablo.csproj.CoreCompileInputs.cache
+C:\repos\Tablo\Tablo\Tablo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\repos\Tablo\Tablo\Tablo\obj\Debug\netstandard2.0\Tablo.dll
+C:\repos\Tablo\Tablo\Tablo\obj\Debug\netstandard2.0\ref\Tablo.dll
+C:\repos\Tablo\Tablo\Tablo\obj\Debug\netstandard2.0\Tablo.pdb

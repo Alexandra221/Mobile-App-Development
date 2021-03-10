@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tablo.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout Spacing="10" Padding="5"
+        x:Name="orientation">
+
+            <ScrollView>
+                <StackLayout Spacing="5" Margin="10">
+                    <StackLayout x:Name="Primary" Orientation="Horizontal" HorizontalOptions="FillAndExpand" Spacing="100" Margin="15,0,0,0">
+                        <Image x:Name="usa_image" Source="https://cruises.soleans.ru/kru/images/uploads/5f6/5f6231d1ff91bd1fe43206b958b310e3.jpg"
+                               Aspect="AspectFill"
+                               WidthRequest="150"
+                               HeightRequest="100"
+                               HorizontalOptions="Start"
+                               VerticalOptions="Start"/>
+                        <Label Text="0" FontSize="40" x:Name="ger_count" VerticalOptions="Center"/>
+                        <Label Text=":" FontSize="40" x:Name="spacer" VerticalOptions="Center"/>
+                        <Label Text="0" FontSize="40" x:Name="ita_count" VerticalOptions="Center"/>
+                        <Image x:Name="can_image" Source="https://www.usdatacorporation.com/wp-content/uploads/2015/04/84.jpg"
+                               Aspect="AspectFill"
+                               WidthRequest="150"
+                               HeightRequest="100"
+                               HorizontalOptions="End"
+                               VerticalOptions="End"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal" Spacing="110" x:Name="Add_scores" HorizontalOptions="Center" VerticalOptions="Fill">
+                        <Button x:Name="Usa" Text="USA" Clicked="Usa_Clicked" Margin="20,0,0,0"></Button>
+                        <Button x:Name="Can" Text="Canada" Clicked="Can_Clicked" Margin="20,0,0,0"></Button>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal" Margin="-15, 10, 0, 70" x:Name="reset_layout" HorizontalOptions="Center" VerticalOptions="Center">
+
+                        <Button x:Name="Reset" Text="Reset" Clicked="Reset_Clicked"></Button>
+                    </StackLayout>
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Fill" VerticalOptions="Fill">
+                        <Button x:Name="Switch" Text ="Switch" Clicked="Switch_Clicked"></Button>
+                    </StackLayout>
+
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
